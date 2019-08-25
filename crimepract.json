@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crimepract",
+  "private_key_id": "20963b90010fb1ffc230d80193e62c43e19cf189",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYo/6rUT58/Ne7\nFUPtCsKelzAxKwiU3ME7GW9xs78tTRBEeYQrc+CceaE1s0HDpV/0L43L1sww532N\nFlGzTGNiBPL56Ap0FLcDk01kSbqPSMuBjo5jicvdcicMAAjr3xmYu4i7UudQcH6L\n64ReEjmzBOJ7uCB2M5RmdK39qJ8RFr1ImSDEmsaoPi2Fnw3sXGz7hlqBbbkpT2Gw\nqdwCI29ZDoVV+1mFI4Zkp6zKm6V16SMNd7m2JyfkU1oYTWPoVGG+p/b3n8awTyF7\nY1dokIYcoQk4t/cHI2BJMAMAbJzMdR/cGBbNeGIS7xXYO5JrbNi446BSvPzDfviD\nuj/xQ9tJAgMBAAECggEABMHtHh8veMB+DjFg0fKT6P2CswWfBC9yll+klEFV+W4o\nI6Tl9F9tkMhPDgLC+fty54QpQevf/BDls5AOhoLLAN3Gn6Nr2qe1TJc6wkrKAHf0\nX9q29W3wvLuMxq2kRDXKm8gR6u9v5kHwr8vCGcHXqozBwmQVdERcoRTh7MC6CdOZ\n9Wv92LfVbN2iHm9u+rS19EaMkPmYbaTKmD31kIWVb5677kBnBb37ro/crDJuSOYm\nOHkqk2BlQUoZn26rezVOgBNRxtfx+0sk9S1zlrL2pXxCgtv2LIbbV992WmPxzFhB\n3ECi4wdR588vCSjxhvwOxHU2e6a2SgB9aYdFxpFwAQKBgQDGxUPEdLg8knDlTSI3\nFd3yM3w29YIrry6pc01bxrwG4a8uXgQx2P0qOZ/w0M2f7P5kdg0UnVmP50a4QhuA\nHi0bKEL9Ss2z9ejtNgYNGxJecMg4CbvEmhi2hjnSX5I/JDTX/rERpU2AWfvBkyzP\n5HqGJwoXAxoPyDduSnwWoLb9aQKBgQDElqPSssQGfQWOOkxelzOJB07hGYTGuKNd\nCiij2RZz2G/waWLGptf6WF85dj2rN3vmMzt5ak+FD9h3M2apvK/AO0NSoumyvW7c\nq1QrtEZXZ/k8PTaNmjJzHILHHzps/o1fXMFc7WfBv3+BWBwgHPj0QnqWkikIS/m+\ncM1JqzfS4QKBgERymauFJgx1wTq1HRsrBIrq/9NNJ84zPTZM5k68WPNltBWbeoZP\n2p43ycP7o1N3IQMnQ8ndhYHweoHpAd9UhOPdMXRX1g4qmFNXTy4kLGcpH0ls0KQb\nDHeOMUsobgwgQ7I9mmwhKFcSpYc7Tysn2qlnuCnEf6z/nVb1f1WrclhBAoGBAKWN\n0uLCh1CLgt02/U9/d/gC/ouUqPuNTI4y2uy5Ci5+7C4DIhr3MNV0DKVgjSiebin7\npS9ntxXwtTQVRnTVIRD7F4QFDFfpLe6KHjU7+Szss7jmOAXiAHBuZzf3dYWKjVXs\n0C5JA+LnOSKdJ/pnS8SwI3qgFgwVp3mYl1ld5oIhAoGALMdXDN6Jvegf30tSwfJK\n6Ojz4rhf1HFuvNYG8w6FPoLGAgKkNIWOAs98B2ZCJwPEP08+UwcT20ZSCNr3PXg/\niKJ4OKqpiDdHezX/MjdhYC7X/p0hYT++CDz5cEhcucyf+QrEa4/RC0t4Hw1JlhLz\nxVYtnhdZ4SCSbOmSi/nyvYM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-jqnj7@crimepract.iam.gserviceaccount.com",
+  "client_id": "114569303504166305576",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-jqnj7%40crimepract.iam.gserviceaccount.com"
+}
